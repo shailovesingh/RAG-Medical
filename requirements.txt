@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_hugginface
+faiss-cpu
+pypdf
+huggingface_hub
+flask
+python-dotenv
